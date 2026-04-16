@@ -150,4 +150,4 @@ This lab is the foundation. Planned follow-ups:
 
 ## 👤 Author
 
-**Built by Makan Traoré — Cloud Engineering Student @ APU Malaysia**
+**Built by Makan Traore —IT student with a specialisation in Cloud Engineering Student @ APU Malaysia**
