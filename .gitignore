@@ -1,0 +1,28 @@
+# AWS credentials — never commit these
+.aws/
+credentials
+*.pem
+*.ppk
+*.key
+
+# Environment / secrets
+.env
+.env.*
+*.secrets
+
+# Terraform (for future iterations)
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+crash.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
